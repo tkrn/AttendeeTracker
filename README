@@ -28,8 +28,3 @@ Please download a Windows .NET 4.0 compiled binary at https://github.com/tkrn/At
   ![AttendeeTracker Screenshot](http://nthnk.com/github/AttendeeTracker_HiddenColumns.png)
 
 * **logo.png** - The default logo on the name tag label can be overridden if logo.png is present in the same directory as the executable. PNG format is required with suggested dimensions of 315px * 315px at 300 DPI. 
-
-
-#### Technical / Background Information
-
-#### Acknowledgements
